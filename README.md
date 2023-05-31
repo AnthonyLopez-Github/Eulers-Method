@@ -1,5 +1,5 @@
 # Eulers-Method
-An implementation of Eulers Method in Java for approximating first-order differential equations.
+An implementation of Eulers Method for approximating first-order differential equations.
 -
 Eulers Method:
 -
