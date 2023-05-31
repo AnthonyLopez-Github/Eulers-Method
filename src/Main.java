@@ -5,6 +5,7 @@
 
 /*
 To Do:
+- Store output
 - Let user enter a custom derivative, step size, and step amount
 - Graph the approximation
 - Show slope for the segments when displayed
